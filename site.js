@@ -12,7 +12,7 @@
       '<div class="nav__actions">'+
         '<nav class="nav__menu">'+
           link('https://abycreations.com/content-creator-portfolio/','Content Creation','content')+
-          link('https://www.abycreations.com/ai-film making-portfolio/','AI Film Making','ai')+
+          link('https://www.abycreations.com/ai-film-making-portfolio/','AI Film Making','ai')+
           link('https://abycreations.com/editor-portfolio/','Video Editing','editing')+
           link('photography.html','Photography','photography')+
         '</nav>'+
@@ -30,7 +30,7 @@
           '<button class="navmenu__close" data-mclose aria-label="Close menu">Close <span>✕</span></button></div>'+
         '<nav class="navmenu__links">'+
           biglink('https://abycreations.com/content-creator-portfolio/','Content Creation','content','01',1)+
-          biglink('https://www.abycreations.com/ai-film making-portfolio/','AI Film Making','ai','02',1)+
+          biglink('https://www.abycreations.com/ai-film-making-portfolio/','AI Film Making','ai','02',1)+
           biglink('https://abycreations.com/editor-portfolio/','Video Editing','editing','03',1)+
           biglink('photography.html','Photography','photography','04',1)+
           biglink('about.html','About','about','05')+
